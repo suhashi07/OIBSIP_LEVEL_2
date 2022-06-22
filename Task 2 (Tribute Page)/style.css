@@ -1,0 +1,51 @@
+/* CSS Document */
+body{
+background-color:#788ea7;
+}
+.mainpage{
+margin-left:200px;
+height:auto;
+width:70%;
+background-color:#65a6d9;
+box-shadow:1px 1px 8px 8px #000000;
+}
+*{
+font-family:Georgia, "Times New Roman", Times, serif;
+}
+h1.heading1,h5{
+text-align:center;
+color:#FFFFFF;
+padding:5px;
+}
+img{
+margin-left:400px;
+}
+table{
+padding:10px;
+}
+caption{
+background-color:#c50000;
+color:#d2cfec;
+padding:7px;
+font-weight:bold;
+}
+td{
+background-color:#23323a;
+padding:5px;
+}
+table td:nth-child(odd){
+color:#6144ff;
+font-size:18px;
+}
+table td:nth-child(even){
+color:#d4b4ec;
+}
+p{
+text-align:center;
+padding:10px;
+}
+h3{
+    text-align:center;
+    color:#FFFFFF;
+    padding:2px;
+    }

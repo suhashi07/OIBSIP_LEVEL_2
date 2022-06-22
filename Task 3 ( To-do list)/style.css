@@ -1,0 +1,8 @@
+.container{
+    background-image: url("./bg.jpg");
+    background-size: 100%;
+    
+    position: sticky;
+    
+    height: 100vh;
+}
